@@ -15,6 +15,6 @@ def contact(request):
 def help(request):
 
     return render(request,'contact.html')
-def help2(request):
+def help3(request):
 
     return render(request,'contact.html')
